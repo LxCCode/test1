@@ -1,0 +1,42 @@
+#header {
+    background-color:#FFA500
+}
+
+#container {
+    width:50%;
+}
+
+#brief {
+    background-color:#FFD700;
+    margin:0px 20px 20px 0px;
+    padding:20px;
+    float:left;
+}
+
+#interest {
+    background-color:#00FF00;
+    width:40%;
+    padding:20px;
+    float:left;
+}
+
+#ability {
+    background-color:#00FFFF;
+    width:40%;
+    padding:20px;
+    float:left;
+}
+
+ul
+{
+	list-style-type:none;
+	padding:0px;
+	margin:0px;
+}
+ul li
+{
+	background-image:url(OIP.svg);
+	background-repeat:no-repeat;
+	background-position:0px 0px; 
+	padding-left:20px;
+}
